@@ -85,10 +85,11 @@
         height: 46vw;
         justify-content: center;*/
 
-        margin: auto 0 10px;
-        max-width: 400px;
-        height: auto;
-        align-self: center;
+        
+    }
+    .about_pic{
+        height: 100%;
+        width: 100%;
     }
     .section__text_p2{
         font-size: 1.25rem;
